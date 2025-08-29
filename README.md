@@ -16,3 +16,7 @@ set and repeat the process.
 
 The explanations are short. To really understand what the commands do, just use them and see what
 happens. For more details, refer to the vim/neovim documentation.
+
+## Other resources
+
+- [Vim User Manual](https://vimdoc.sourceforge.net/htmldoc/usr_toc.html)
