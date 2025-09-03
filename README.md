@@ -1,4 +1,4 @@
-# Gradus ad vim
+# gradus ad vim
 
 > Note: this is very much a work in progress
 
@@ -15,10 +15,13 @@ much as possible in your daily editing. When you feel comfortable with them, mov
 set and repeat the process.
 
 The explanations are short. To really understand what the commands do, try using them and see what
-happens. For more details, refer to the vim/neovim documentation.
+happens. For more details, refer to the vim/neovim documentation (linked below).
 
 [vim]: https://www.vim.org/
 [neovim]: https://neovim.io/
+
+The repository name is a play on [Gradus ad
+Parnassum](https://en.wikipedia.org/wiki/Gradus_ad_Parnassum).
 
 ## vim or neovim?
 
@@ -57,6 +60,9 @@ COMMAND(S)
   indicated with an arrow, e.g. `[N→I]`.
 
 ## Resources
+
+Here are links to the documentation for each editor. The user manual is worth reading through at
+some point.
 
 - neovim
   - [Neovim User Manual]
