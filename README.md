@@ -2,13 +2,13 @@
 
 > Note: this is very much a work in progress
 
-For one who is new to [vim]/[neovim], it is hard to know where to start, and there are many
-resources out there.
+This guide is a resource for those who are new to [vim]/[neovim] or are trying to attain greater
+proficiency.
 
-This is meant as a very quick roadmap of the most useful commands. I've tried to only include
-commands that one will use on a daily basis, and the ordering is intended to get you moving as
-quickly as possible. What is presented here is not comprehensive, but it should provide a pretty
-good foundation.
+It provides a roadmap of the most useful commands, the ones that you are most likely to use on a
+daily basis. The order in which they are presented is intended to get you moving as quickly as
+possible. What is presented here is not comprehensive, but it should provide a pretty good
+foundation.
 
 To use these lists, just go in order. Practice each set of commands, trying to incorporate them as
 much as possible in your daily editing. When you feel comfortable with them, move on to the next
@@ -26,7 +26,7 @@ Parnassum](https://en.wikipedia.org/wiki/Gradus_ad_Parnassum).
 ## vim or neovim?
 
 For basic use, both vim and neovim are very similar. It is worth mastering the functionality common
-to both. For more advanced usage, these days I prefer neovim.
+to both. For more advanced usage (plugins, LSP integration), these days I prefer neovim.
 
 In this repository, I use "vim" to refer to either editor.
 
@@ -41,7 +41,7 @@ To start, these are the most important modes:
 - `[C]` Command-line: You enter other commands, at the bottom of the screen.
 - `[V]` Visual: You select text in the buffer.
 
-See also `usr_02.txt` in the User Manual.
+See also `usr_02.txt` in the [Neovim User Manual].
 
 ## Notation
 
@@ -57,9 +57,9 @@ COMMAND(S)
 
 - The commands are the keystrokes that you enter.
 - The mode is the mode where you can use the command. If the command changes the mode, this is
-  indicated with an arrow, e.g. `[N→I]`.
+  indicated with an arrow, e.g. `[N → I]`.
 
-## Resources
+## Additional resources
 
 Here are links to the documentation for each editor. The user manual is worth reading through at
 some point.
