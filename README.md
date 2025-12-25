@@ -30,6 +30,14 @@ to both. For more advanced usage (plugins, LSP integration), these days I prefer
 
 In this repository, I use "vim" to refer to either editor.
 
+## Starting from scratch
+
+If you are completely new to vim, then the best way to get started is to go through the tutorial:
+
+- Install [neovim]
+- In a terminal, run `nvim`
+- Type `:Tutor<Enter>`
+
 ## Modes
 
 When using vim, the editor can be in several modes. Various commands or keys can change the mode.
